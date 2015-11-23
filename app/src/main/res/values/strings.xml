@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IRR 計算機</string>
+    <string name="itemNumber">第 %s 年初</string>
+</resources>
